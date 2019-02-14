@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+   <meta charset="UTF-8">
+   <title>下拉多选</title>
+
+   <link rel="stylesheet" href="./bower_components/bootstrap/dist/css/bootstrap.css">
+    <!--<link href="./bower_components/angular-ui-select/select.css" rel="stylesheet">-->
+    <!--<link href="https://cdn.bootcss.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">-->
+    <link href="https://cdn.bootcss.com/angular-ui-select/0.20.0/select.css" rel="stylesheet">
+</head>
+<body>
+
+<div ng-controller ="appCtrl">
+
+   <shop-flag-select ng-model="flag" my-report="reportId"></shop-flag-select>
+<page-header></page-header>
+</div>
+
+<script src="./bower_components/jquery/dist/jquery.js"></script>
+<!--<script src="../bower_components/angular/angular.js"></script>-->
+<script src="https://cdn.staticfile.org/angular.js/1.6.9/angular.min.js"></script>
+<script src="./bower_components/angular-sanitize/angular-sanitize.js"></script>
+<script src="demo-multi-select.js"></script>
+<!--<script src="https://cdn.bootcss.com/angular.js/1.6.9/angular.min.js"></script>-->
+<!--<script src="https://cdn.bootcss.com/angular.js/1.6.9/angular-sanitize.min.js"></script>-->
+<!--<script src="https://cdn.bootcss.com/angular-ui-select/0.20.0/select.min.js"></script>-->
+<script src="./bower_components/angular-ui-select/select.js"></script>
+
+<script type="text/javascript" charset="utf-8" src="../ueditor.config.js"></script>
+<script type="text/javascript" charset="utf-8" src="./editor_api.js"></script>
+<!--style给定宽度可以影响编辑器的最终宽度-->
+<script type="text/plain" id="myEditor1" style="margin-bottom:100px;">
+</script>
+<script type="text/plain" id="myEditor2" style="margin-bottom:100px;">
+    <p>这里我可以写一些输入提示</p>
+</script>
+<script type="text/plain" id="myEditor3" style="margin-bottom:100px;">
+</script>
+
+<script type="text/javascript">
+    UE.getEditor('myEditor1', {
+
+        theme:"default", //皮肤
+        lang:'zh-cn' //语言
+    });
+
+    UE.getEditor('myEditor2', {
+        autoClearinitialContent:true, //focus时自动清空初始化时的内容
+        wordCount:false, //关闭字数统计
+        elementPathEnabled:false//关闭elementPath
+    });
+
+    UE.getEditor('myEditor3', {
+        //toolbars:[['FullScreen', 'Source', 'Undo', 'Redo','Bold']],//这里可以选择自己需要的工具按钮名称,此处仅选择如下五个
+        lang:"en"
+        //更多其他参数，请参考ueditor.config.js中的配置项
+    });
+
+</script>
+<script>
+
+  var myapp =  angular.module('app', ['ui.select', 'ngSanitize','shopflagselect'])
+
+  myapp.controller('appCtrl',function ($scope) {
+            $scope.flag = '3';
+         });
+  myapp.component("pageHeader", {
+      templateUrl:"./pageHeader.html",
+      controller:function($scope) {
+
+      }})
+</script>
+</body>
+</html>

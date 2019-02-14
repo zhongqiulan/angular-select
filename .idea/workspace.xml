@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="615dd8b7-6af2-428c-8aa9-ddfea05440a9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-animate\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-animate\README.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-animate\angular-animate.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-animate\angular-animate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-animate\angular-animate.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-animate\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-animate\index.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-animate\package.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\README.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\index.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\package.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\ui-bootstrap-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\ui-bootstrap-tpls.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\ui-bootstrap-tpls.min.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\ui-bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-bootstrap\ui-bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-mocks\LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-mocks\README.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-mocks\angular-mocks.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-mocks\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-mocks\ngAnimateMock.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-mocks\ngMock.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-mocks\ngMockE2E.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-mocks\package.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-route\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-route\README.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-route\angular-route.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-route\angular-route.min.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-route\angular-route.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-route\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-route\index.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-route\package.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-sanitize\README.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-sanitize\angular-sanitize.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-sanitize\angular-sanitize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-sanitize\angular-sanitize.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-sanitize\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-sanitize\package.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-ui-select\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-ui-select\README.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-ui-select\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-ui-select\package.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-ui-select\select.css" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-ui-select\select.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-ui-select\select.min.css" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular-ui-select\select.min.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular\README.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular\angular-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular\angular.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular\angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular\angular.min.js.gzip" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular\angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular\index.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\angular\package.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\README.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\css\bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\css\bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\dist\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\grunt\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\grunt\bs-commonjs-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\grunt\bs-glyphicons-data-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\grunt\bs-lessdoc-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\grunt\bs-raw-files-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\grunt\configBridge.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\grunt\sauce_browsers.yml" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\affix.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\alert.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\button.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\modal.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\popover.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\js\transition.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\.csscomb.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\.csslintrc" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\badges.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\close.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\code.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\labels.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\media.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\background-variant.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\border-radius.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\center-block.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\clearfix.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\gradients.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\grid-framework.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\hide-text.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\image.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\labels.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\nav-divider.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\nav-vertical-align.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\opacity.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\progress-bar.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\reset-filter.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\reset-text.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\resize.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\responsive-visibility.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\size.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\tab-focus.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\table-row.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\text-emphasis.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\text-overflow.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\mixins\vendor-prefixes.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\modals.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\navs.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\pager.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\print.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\responsive-embed.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\tables.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\theme.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\type.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\variables.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\less\wells.less" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\nuget\MyGet.ps1" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\nuget\bootstrap.less.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\nuget\bootstrap.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\package.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\bootstrap\package.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\AUTHORS.txt" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\README.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\dist\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\dist\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\dist\jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\ajax\jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\ajax\load.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\ajax\parseJSON.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\ajax\parseXML.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\ajax\script.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\ajax\var\location.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\ajax\var\nonce.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\ajax\var\rquery.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\ajax\xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\attributes\attr.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\attributes\classes.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\attributes\prop.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\attributes\support.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\attributes\val.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\core.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\core\access.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\core\init.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\core\parseHTML.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\core\ready.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\core\support.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\core\var\rsingleTag.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\addGetHookIf.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\adjustCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\curCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\defaultDisplay.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\hiddenVisibleSelectors.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\showHide.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\support.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\var\cssExpand.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\var\getStyles.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\var\isHidden.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\var\rmargin.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\var\rnumnonpx.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\css\var\swap.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\data.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\data\Data.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\data\accepts.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\data\support.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\data\var\acceptData.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\data\var\dataPriv.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\data\var\dataUser.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\effects.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\effects\Tween.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\effects\animatedSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\effects\support.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\event.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\event\ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\event\alias.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\event\focusin.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\event\support.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\event\trigger.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\exports\amd.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\exports\global.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\intro.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\_evalUrl.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\buildFragment.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\createSafeFragment.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\getAll.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\setGlobalEval.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\support.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\var\nodeNames.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\var\rcheckableType.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\var\rleadingWhitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\var\rscriptType.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\var\rtagName.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\manipulation\wrapMap.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\offset.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\outro.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\queue.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\queue\delay.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\selector-native.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\selector-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\selector.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\support.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\traversing\findFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\traversing\var\dir.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\traversing\var\rneedsContext.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\traversing\var\siblings.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\arr.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\class2type.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\concat.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\deletedIds.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\document.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\documentElement.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\hasOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\indexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\pnum.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\push.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\rcssNum.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\rnotwhite.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\slice.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\support.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\var\toString.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\bower_components\jquery\src\wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\select-filter\demo-multi-select-tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\select-filter\demo-multi-select.html" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\select-filter\demo-multi-select.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\select-filter\demo-select-base.html" afterPath="" />
+      <change type="DELETED" beforePath="G:\angular-ui-select\select-filter\demo-select-base.js" afterPath="" />
+    </list>
+    <ignored path="angular-ui-select.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="angular-ui-select" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="demo-multi-select.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ueditor-dev-1.5.0/_examples/demo-multi-select.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.8596492">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simpleDemo.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ueditor-dev-1.5.0/_examples/simpleDemo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.28268552">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/select-filter/pageHeader.html" />
+        <option value="$PROJECT_DIR$/select-filter/demo-multi-select.js" />
+        <option value="$PROJECT_DIR$/select-filter/demo-multi-select.html" />
+        <option value="$PROJECT_DIR$/ueditor-dev-1.5.0/_examples/select-filter/demo-multi-select.html" />
+        <option value="$PROJECT_DIR$/ueditor-dev-1.5.0/_examples/bower_components/angular-ui-select/select.css" />
+        <option value="$PROJECT_DIR$/ueditor-dev-1.5.0/_examples/demo-multi-select.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ueditor-dev-1.5.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ueditor-dev-1.5.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ueditor-dev-1.5.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ueditor-dev-1.5.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui-select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="G:/ueditor-dev-1.5.0" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="125" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="132" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="132" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="925" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="125" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="132" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="132" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="925" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="615dd8b7-6af2-428c-8aa9-ddfea05440a9" name="Default" comment="" />
+      <created>1550154941507</created>
+      <option name="number" value="Default" />
+      <updated>1550154941507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ueditor-dev-1.5.0/_examples/bower_components/angular-ui-select/select.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.892857">
+          <caret line="361" column="1" selection-start-line="361" selection-start-column="1" selection-end-line="361" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ueditor-dev-1.5.0/_examples/demo-multi-select.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8596492">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ueditor-dev-1.5.0/_examples/simpleDemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.28268552">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
