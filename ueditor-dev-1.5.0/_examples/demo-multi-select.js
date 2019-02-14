@@ -9,10 +9,10 @@ module.directive('shopFlagSelect',function () {
         templateUrl : 'demo-multi-select-tpl.html',
         scope:{
             flagValue : '=ngModel',
-            reportId : '=myReport'
+            report : '='
         },
         link:function (scope,element,attrs) {
-            console.log('scope.reportId',scope.reportId)
+            console.log('scope.reportId',scope.report)
             scope.itemArray =[
                 {re: 'f', name: '多鲜'},
                 {re: 'e', name: '银桥'},
