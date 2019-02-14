@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>下拉框过滤</title>
+   <link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.min.css">
+   <link rel="stylesheet" href="../bower_components/angular-ui-select/select.css">
+   <script src="../bower_components/angular/angular.js"></script>
+   <script src="../bower_components/angular-sanitize/angular-sanitize.js"></script>
+   <script src="../bower_components/angular-ui-select/select.js"></script>
+   <script src="demo-select-base.js"></script>
+   <style>
+      body {
+         padding: 36px 24px;
+      }
+
+      .row + .row {
+         margin-top: 30px;
+      }
+
+   </style>
+</head>
+<body ng-app="demo" ng-controller="DemoCtrl">
+
+<div class="form-horizontal">
+   <div class="row">
+      <!--传对象-->
+      <div class="col-sm-3">
+         <ui-select ng-model="$parent.test" theme="bootstrap" style="min-width: 300px;" name="oldTest" ng-change="testChange()">
+
+            <ui-select-match placeholder="请选择名称">{{$select.selected.name}}</ui-select-match>
+
+            <ui-select-choices repeat="s in testArr| propsFilter: {name: $select.search, id: $select.search}">
+
+               <div ng-bind-html="s.name | highlight: $select.search"></div>
+
+            </ui-select-choices>
+
+         </ui-select>
+
+      </div>
+
+      <div class="horizontal-space"></div>
+
+      <div class="col-sm-3">
+         <ui-select ng-model="$parent.test2" theme="bootstrap" style="min-width: 300px;" name="oldTest" ng-change="testChange()">
+            <ui-select-match placeholder="请选择名称">{{$select.selected.name}}</ui-select-match>
+            <ui-select-choices repeat="s in testArr2 | propsFilter: {name: $select.search, id: $select.search}">
+               <div ng-bind-html="s.name | highlight: $select.search"></div>
+            </ui-select-choices>
+         </ui-select>
+      </div>
+      <div class="horizontal-space"></div>
+   </div>
+</div>
+
+
+
+
+</body>
+</html>

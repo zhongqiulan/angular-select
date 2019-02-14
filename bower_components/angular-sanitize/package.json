@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      "angular-sanitize@1.2.28",
+      "D:\\phpStudy\\WWW\\angular\\todomvc"
+    ]
+  ],
+  "_from": "angular-sanitize@1.2.28",
+  "_id": "angular-sanitize@1.2.28",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/angular-sanitize",
+  "_nodeVersion": "0.10.26",
+  "_npmUser": {
+    "email": "angular-core+npm@google.com",
+    "name": "angularcore"
+  },
+  "_npmVersion": "2.0.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "angular-sanitize",
+    "raw": "angular-sanitize@1.2.28",
+    "rawSpec": "1.2.28",
+    "scope": null,
+    "spec": "1.2.28",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-sanitize/-/angular-sanitize-1.2.28.tgz",
+  "_shasum": "88ee3c3edcd17175a2f977f14c7e2a823c929105",
+  "_shrinkwrap": null,
+  "_spec": "angular-sanitize@1.2.28",
+  "_where": "D:\\phpStudy\\WWW\\angular\\todomvc",
+  "author": {
+    "email": "angular-core+npm@google.com",
+    "name": "Angular Core Team"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular.js/issues"
+  },
+  "dependencies": {},
+  "description": "AngularJS module for sanitizing HTML",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "88ee3c3edcd17175a2f977f14c7e2a823c929105",
+    "tarball": "https://registry.npmjs.org/angular-sanitize/-/angular-sanitize-1.2.28.tgz"
+  },
+  "gitHead": "d2f6ee551c1df7e412042d847302b37a058b82e2",
+  "homepage": "http://angularjs.org",
+  "keywords": [
+    "angular",
+    "browser",
+    "client-side",
+    "framework",
+    "html"
+  ],
+  "license": "MIT",
+  "main": "angular-sanitize.js",
+  "maintainers": [
+    {
+      "name": "akalinovski",
+      "email": "a.kalinovski@gmail.com"
+    },
+    {
+      "name": "ws-malysheva",
+      "email": "ws.malysheva@gmail.com"
+    },
+    {
+      "name": "pitbeast",
+      "email": "PitBeast777@gmail.com"
+    },
+    {
+      "name": "angularcore",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "name": "angular-sanitize",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.28"
+}
